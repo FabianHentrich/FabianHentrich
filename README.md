@@ -18,7 +18,7 @@ I am an aspiring **Data Scientist** with a strong background in **Economics** an
 ## 🛠️ Tech Stack
 - **Languages**: Python, R, SQL  
 - **Libraries**: pandas, numpy, scikit-learn, statsmodels, plotly, matplotlib, seaborn  
-- **Machine Learning**: Supervised & Unsupervised Learning, Clustering, Regression, Time Series  
+- **Statistics**: Supervised & Unsupervised Learning, Clustering, Regression, Time Series Analysis, Testing, Causality  
 - **Tools**: Jupyter Notebook, GitHub, LATEX, SAS, PyCharm, Jira, Copilot (and other LLMs), Google Colab
 - **Cloud & Deployment (learning)**: Docker
 
