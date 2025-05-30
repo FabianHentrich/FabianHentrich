@@ -26,6 +26,8 @@ I am an aspiring **Data Scientist** with a strong background in **Economics** an
 
 ## 🔥 Featured Projects
 Here are a few highlights from my portfolio:
+- [🛒 Retail Segmentation & Revenue Forecasting (MLOps)](https://github.com/FabianHentrich/retail-segmentation-mlops)  
+  An end-to-end machine learning pipeline predicting customer revenues using RFM features. Includes Optuna-tuned XGBoost models, SHAP explainability, FastAPI deployment, and Docker containerization.
 
 - [📈 Bitcoin & Inflation: Time-Series VAR Analysis](https://github.com/FabianHentrich/TimeSeries_Analysis_BTC_Inflation)  
   Reproducing and extending a published paper to test the robustness of Bitcoin as an inflation hedge across different time periods.
