@@ -60,8 +60,11 @@ A larger hobby project focused on application design and usability (no Data Scie
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FabianHentrich&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 📈 GitHub Stats 
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=FabianHentrich&show_icons=true&theme=radical" alt="GitHub Stats" /> 
+</p> 
+
+---
 
