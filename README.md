@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fabian Hentrich
 
 I'm a **Data & AI Specialist** based in Germany with a strong foundation in **Econometrics**.  
-I build **cloud-native data products** end-to-end — from analysis to **production ML services**.
+I build **cloud-native data products** end-to-end — from data pipelines and database design to production ML services**.
 
 - 💼 Data & AI Specialist @ RUHR24 GmbH (since 10/2025)  
 - 🎓 M.Sc. Wirtschaftswissenschaften (TU Dortmund) — Grade: 1.5  
