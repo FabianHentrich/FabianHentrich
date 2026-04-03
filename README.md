@@ -1,70 +1,68 @@
 # 👋 Hi, I'm Fabian Hentrich
 
-I'm a **Data & AI Specialist** based in Germany with a strong foundation in **Econometrics**.  
-I build **cloud-native data products** end-to-end — from data pipelines and database design to production ML services**.
+I'm a **Data & AI Specialist** based in Germany with a strong foundation in **Econometrics and Causal Inference**.  
+I build **cloud-native data products** end-to-end — from data pipelines and database design to **production ML services**.
 
-- 💼 Data & AI Specialist @ RUHR24 GmbH (since 10/2025)  
 - 🎓 M.Sc. Wirtschaftswissenschaften (TU Dortmund) — Grade: 1.5  
-- 🎓 M.Sc. Econometrics (TU Dortmund) (ongoing) — time series & causal methods  
-- 👨‍🏫 Former tutor / teaching assistant for Econometrics (Master level)
+- 💼 Most recently Data & AI Specialist @ RUHR24 GmbH  
+- 👨‍🏫 Former teaching assistant for Econometrics (Master level, TU Dortmund)  
+- 🔍 Open to opportunities in **Data Science, ML Engineering & AI Engineering**
 
 ---
 
-## 🔭 What I'm working on
-- Building and operating **cloud-native data products on GCP** (BigQuery, Cloud Run)  
-- Developing **ETL/ELT pipelines** and **database structures** for reliable downstream usage  
-- Implementing **data quality & monitoring** (validation rules, automated checks, alerting)  
-- Operating **REST-based ML services** with reliability improvements (logging, monitoring, retraining workflows)
+## 🔭 What I build
+
+- **Cloud-native data products on GCP** (BigQuery, Vertex AI, Cloud Run)  
+- **ETL/ELT pipelines** and database architectures for reliable downstream usage  
+- **REST-based ML & LLM services** with monitoring, logging and provider-fallback logic  
+- **Data quality & monitoring systems** (validation rules, automated checks, alerting)
 
 ---
 
 ## 🧰 Tech Stack
+
 **Languages:** Python, R, SQL  
-**Core:** pandas, numpy, scikit-learn, statsmodels, matplotlib, plotly  
-**Methods:** OLS, IV/2SLS, GMM, MLE • ARIMA/VAR/SVAR • clustering • causal inference (DAGs/IV)  
-**Data Eng / MLOps:** GCP (BigQuery, Cloud Run) • Docker • GitHub Actions • FastAPI • monitoring/logging
+**ML & Stats:** scikit-learn, XGBoost, PyTorch, statsmodels, SHAP, Optuna  
+**Methods:** OLS, IV/2SLS, GMM, MLE · ARIMA/VAR/SVAR · Clustering · Causal Inference (DAGs, IV)  
+**LLM & NLP:** Transformers, Vertex AI (Gemini), OpenAI API, Claude API, Prompt Engineering  
+**Data Eng / MLOps:** GCP (BigQuery, Cloud Run) · Docker · GitHub Actions · FastAPI · Pydantic · Jinja  
+**Tools:** PyCharm, Jupyter/Colab, Jira, LaTeX, Terraform
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🛒 Retail Segmentation & Revenue Forecasting (End-to-End + Deployment)
-RFM feature engineering → XGBoost + Optuna tuning → SHAP explainability → FastAPI + Docker deployment  
-➡️ https://github.com/FabianHentrich/retail-segmentation-mlops
+### 🛒 Retail Segmentation & Revenue Forecasting
+End-to-end ML workflow: RFM feature engineering → XGBoost + Optuna tuning → SHAP explainability → FastAPI + Docker deployment.  
+➡️ [github.com/FabianHentrich/retail-segmentation-mlops](https://github.com/FabianHentrich/retail-segmentation-mlops)
 
 ### 📈 Bitcoin & Inflation — Time Series VAR Analysis
-VAR-based analysis with robustness extensions across different time periods  
-➡️ https://github.com/FabianHentrich/TimeSeries_Analysis_BTC_Inflation
+VAR-based macro analysis with robustness extensions across different time periods.  
+➡️ [github.com/FabianHentrich/TimeSeries_Analysis_BTC_Inflation](https://github.com/FabianHentrich/TimeSeries_Analysis_BTC_Inflation)
 
 ### 📊 Portfolio Analyzer (ETFs, Stocks, Crypto)
-Automated portfolio analytics + interactive dashboards for recurring tracking  
-➡️ https://github.com/FabianHentrich/ishares_etf_portfolio_analysis
+Automated portfolio analytics with interactive dashboards for recurring tracking.  
+➡️ [github.com/FabianHentrich/ishares_etf_portfolio_analysis](https://github.com/FabianHentrich/ishares_etf_portfolio_analysis)
 
 ### 📉 K-Means Clustering of Stock Data (S&P 500)
-Clustering + dimensionality reduction (PCA, t-SNE) to identify market structure patterns  
-➡️ https://github.com/FabianHentrich/kmeans-stock-clustering
+Clustering + dimensionality reduction (PCA, t-SNE) to identify market structure patterns.  
+➡️ [github.com/FabianHentrich/kmeans-stock-clustering](https://github.com/FabianHentrich/kmeans-stock-clustering)
 
 ---
 
-## 🧩 Side Project (Software Engineering)
+## 🧩 Side Projects
+
+### 🖼️ PortraitForge — Local AI Portrait Pipeline
+Fully offline pipeline for AI-powered portrait generation and post-processing. Modular architecture with swappable models (PhotoMaker, FLUX.1, Stable Diffusion), face restoration (CodeFormer), upscaling (Real-ESRGAN), and automatic background removal. AMD GPU acceleration via DirectML, Gradio Web-UI with dynamic VRAM management.  
+➡️ [github.com/FabianHentrich/portraitforge](https://github.com/FabianHentrich/portraitforge)
 
 ### ⚔️ Combat Tracker (PnP Tooling)
-A larger hobby project focused on application design and usability (no Data Science focus).  
-➡️ https://github.com/FabianHentrich/Combat_Tracker_PnP
+A hobby project focused on application design and usability (no Data Science focus).  
+➡️ [github.com/FabianHentrich/Combat_Tracker_PnP](https://github.com/FabianHentrich/Combat_Tracker_PnP)
 
 ---
 
 ## 📫 Get in touch
-- LinkedIn: https://linkedin.com/in/fabian-hentrich-849228201  
-- Email: fabian.hentrich@proton.me
 
----
-
-## 📈 GitHub Stats 
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=FabianHentrich&show_icons=true&theme=radical" alt="GitHub Stats" /> 
-</p> 
-
----
-
+- **LinkedIn:** [linkedin.com/in/fabian-hentrich-849228201](https://linkedin.com/in/fabian-hentrich-849228201)  
+- **Email:** fabian.hentrich@proton.me
