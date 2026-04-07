@@ -33,9 +33,7 @@ I build **cloud-native data products** end-to-end — from data pipelines and da
 ## ⭐ Featured Projects
 
 ### 🧠 LoreKeeper — Production RAG System (Local + Cloud, Two-Stage Retrieval)
-End-to-end RAG pipeline for semi-structured knowledge bases: structured document parsing → E5 embeddings + cross-encoder reranking → metadata-aware retrieval → dual LLM runtime (Ollama + Gemini).  
-Production-oriented design with incremental indexing, source grounding, and explicit latency vs. quality trade-offs.
-
+End-to-end RAG pipeline for semi-structured knowledge bases: structured document parsing → E5 embeddings + cross-encoder reranking → metadata-aware retrieval → dual LLM runtime (Ollama + Gemini). Production-oriented design with incremental indexing, source grounding, and explicit latency vs. quality trade-offs. 
 ➡️ [github.com/FabianHentrich/lorekeeper](https://github.com/FabianHentrich/lorekeeper)
 
 ### 🛒 Retail Segmentation & Revenue Forecasting
